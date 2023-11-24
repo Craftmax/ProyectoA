@@ -1,1 +1,17 @@
-src/
+|-- src/
+|   |-- MainModule/
+|   |   |-- main.py
+|   |   |-- utils.py
+|-- tests/
+|   |-- test_main_module.py
+|-- lib/
+|   |-- external_library1/
+|   |   |-- library1.py
+|   |-- external_library2/
+|   |   |-- library2.py
+|-- assets/
+|   |-- images/
+|   |   |-- logo.png
+|-- docs/
+|   |-- technical_documentation.md
+|-- README.md
